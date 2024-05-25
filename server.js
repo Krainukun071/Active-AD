@@ -6,8 +6,8 @@ const path = require('path');
 const config = {
     url: 'ldap://dc01.kcscompany.com',
     baseDN: 'dc=kcscompany,dc=com',
-    username: 'natdanai.k@kcscompany.com',
-    password: 'K_k28012539'
+    username: 'Administrator@kcscompany.com',
+    password: 'P@ssw0rd'
 };
 
 
